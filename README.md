@@ -37,7 +37,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lojitta&theme=calm" />
 </p>
-### 🚨 Featured Projects
+
 
 #### 🧠 Lost Child Identification using CNN
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lojitta&repo=Lost-Child-Identification&theme=calm)](https://github.com/Lojitta/Lost-Child-Identification)
